@@ -1,6 +1,6 @@
 # Ola! Eu sou Hérick Henrique!!
 
-- 🔭 Desenvolvedor Front-End..
+- 🔭 Desenvolvedor Front-End.
 - 🌱 Atualmente estudando React e Node.js
 
 <div style="display: inline_block"><br>
@@ -17,4 +17,4 @@
     
 </div>
 
-![Snake animation](https://github.com/HerickHenriqueSS/HerickHneriuqeSS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HerickHenriqueSS/HerickHenriuqeSS/blob/output/github-contribution-grid-snake.svg)
