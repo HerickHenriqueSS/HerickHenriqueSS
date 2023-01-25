@@ -1,10 +1,10 @@
-# Ola! Eu sou Hérick Henrique!!
+## Ola! Eu sou Hérick Henrique!!
 
 - 🔭 Desenvolvedor Front-End.
 - 📘 Atualmente estudando React e Node.js
 - 📚 Cursando 5º Período em Análise e Desenvolvimento de Sistemas
 
-### Contatos:
+### Contatos
 
 <div>
 <a href="https://instagram.com/herick.hss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
