@@ -1,8 +1,7 @@
 ## Ola! Eu sou Hérick Henrique!!
 
-- 🔭 Desenvolvedor Front-End.
-- 📘 Atualmente estudando React e Node.js
-- 📚 Cursando 5º Período em Análise e Desenvolvimento de Sistemas
+- 🔭 Desenvolvedor Front-End
+- 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 ### Contatos
 
